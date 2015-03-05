@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F967E6D5-1F3E-4A47-BDD5-5AA097C6F4A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>earthquakeMonitor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3E20EB173D30DFCF12147622B6571E263B06C3A5</key>
+		<string>https://github.com/killerteam/earthquakeMonitor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>earthquakeMonitor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3E20EB173D30DFCF12147622B6571E263B06C3A5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/killerteam/earthquakeMonitor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3E20EB173D30DFCF12147622B6571E263B06C3A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3E20EB173D30DFCF12147622B6571E263B06C3A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>earthquakeMonitor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
